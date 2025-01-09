@@ -1,0 +1,7 @@
+terraform.tfstate.backup
+terraform.tfstate
+Day1-EC2 Creation
+.terraform/
+.git/
+.terraform.lock.hcl
+AWS-TF/
